@@ -1,3 +1,4 @@
 # GameShare
 WebFórum desenvolvido durante a graduação.
-<h1 href="http://gameshare.dx.am/"> Game Share </h1>
+<a href="http://gameshare.dx.am/" title="GameShare">Click to visit home page.</a>
+
